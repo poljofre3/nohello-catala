@@ -2,7 +2,7 @@ name: Deploy Eleventy Site
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "master"]
 
 permissions:
   contents: read
@@ -44,4 +44,5 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
