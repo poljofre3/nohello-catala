@@ -23,7 +23,7 @@ msgstr "No diguis només Hola"
 msgid "description"
 msgstr "Si us plau, no diguis només Hola al xat. Fes la teva pregunta directament."
 
-# --- EXEMPLE DOLENT ---
+#BAD EXAMPLE
 
 msgid "example.bad.title"
 msgstr "No ho facis així"
@@ -67,7 +67,7 @@ msgstr "12:04"
 msgid "example.bad.message3.body"
 msgstr "Volia preguntar-te una cosa sobre..."
 
-# --- EXEMPLE BO ---
+#GOOD EXAMPLE
 
 msgid "example.good.title"
 msgstr "Millor fes això"
@@ -102,7 +102,7 @@ msgstr "12:03"
 msgid "example.good.reply2.body"
 msgstr "Cap problema!"
 
-# --- PEU DE PÀGINA I ALTRES ---
+#FOOTNOTES
 
 msgid "patterns.title"
 msgstr "Per què és millor fer-ho així?"
