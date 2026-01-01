@@ -1,4 +1,5 @@
 [
+{ "path": "ca", "name": "Català" },
   { "path": "en", "name": "English" },
   { "path": "cs", "name": "Čeština" },
   { "path": "de", "name": "Deutsch" },
